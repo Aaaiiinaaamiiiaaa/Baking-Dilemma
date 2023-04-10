@@ -1,11 +1,7 @@
-# Solving Baking-Dilemma using Linear Programming
-Final year project research
-# SM4290
-Final Year Project
-
+# Solving Baking Dilemma using Linear Programming
+SM4290 RESEARCH PROJECT
 
 ## First month R code
-
 ### Control group code
 ```
 library(lpSolve)
@@ -761,7 +757,6 @@ Success: the objective function is 58
  [1]  9  1  1  2  0  9  0 12  9 15
  ```
 ## Second month R code
-
 ### Control group code
 ```
 library(lpSolve)
@@ -1704,7 +1699,6 @@ Success: the objective function is 67
  ```
  
 ## Third month R code
-
 ### Control group code
 ```
 library(lpSolve)
