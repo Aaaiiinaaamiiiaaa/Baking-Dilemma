@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: null
+header {
+    display: none;
+}
