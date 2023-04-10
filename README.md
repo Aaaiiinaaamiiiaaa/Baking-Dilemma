@@ -1,4 +1,4 @@
-# Solving Baking Dilemma using Linear Programming
+# SOLVING BAKING DILEMMA USING LINEAR PROGRAMMING ON R SOFTWARE
 SM4290 RESEARCH PROJECT
 
 ## First month R code
